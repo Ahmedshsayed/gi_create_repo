@@ -5,3 +5,4 @@ line 1 feature1
 "EOD"
 adding new line test_remote1
 adding new line test_remote2
+adding new line test_remote3
